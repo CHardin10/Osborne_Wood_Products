@@ -1,0 +1,12 @@
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\bin\Debug\Robert_Hardin_AbilityDemo.exe.config
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\bin\Debug\Robert_Hardin_AbilityDemo.exe
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\bin\Debug\Robert_Hardin_AbilityDemo.pdb
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.csprojAssemblyReference.cache
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.Form1.resources
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.Properties.Resources.resources
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.UserControl1.resources
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.UserControl2.resources
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.csproj.GenerateResource.cache
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.csproj.CoreCompileInputs.cache
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.exe
+C:\Users\chard\source\repos\Robert_Hardin_AbilityDemo\Robert_Hardin_AbilityDemo\obj\Debug\Robert_Hardin_AbilityDemo.pdb
